@@ -1,0 +1,6 @@
+Introduction
+Project Vision
+Related Work
+Software Requirement Specifications 
+
+The Abstract, Executive Summary and Reference section are compulsory for all types of projects but the Appendix is optional.
