@@ -1,0 +1,6 @@
+1. digital signature for verification of riders and customers
+2. in-app feedback
+3. gamification to reduce payments
+4. route planner for riders
+5. box sharing
+6. geo-fencing
